@@ -28,8 +28,9 @@
 
 ## 🖼️ Sample Output
 
+
 <p align="center">
-  <img src="assets/counted_output.gif" width="80%" alt="Sample Output">
+  <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
 </p>
 
 ---
