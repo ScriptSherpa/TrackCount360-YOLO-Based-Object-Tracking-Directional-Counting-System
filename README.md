@@ -29,7 +29,7 @@
 ## 🖼️ Sample Output
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5ndW50aWZpZWRnaWY/giphy.gif" width="80%" alt="Demo GIF">
+  <img src="assets/counted_output.gif" width="80%" alt="Sample Output">
 </p>
 
 ---
