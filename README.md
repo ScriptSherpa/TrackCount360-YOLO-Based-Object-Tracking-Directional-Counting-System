@@ -33,6 +33,14 @@
   <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
 </p>
 
+<p align="center">
+  <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
+</p>
+
+<p align="center">
+  <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
+</p>
+
 ---
 
 ## 🧠 Tech Stack
