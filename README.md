@@ -34,11 +34,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
+  <img src="assets/output_detected(2).gif" width="80%" alt="Sample Output">
 </p>
 
 <p align="center">
-  <img src="assets/output_detected.gif" width="80%" alt="Sample Output">
+  <img src="assets/output_detected(3).gif" width="80%" alt="Sample Output">
 </p>
 
 ---
